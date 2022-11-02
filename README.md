@@ -1,1 +1,1 @@
-# Project 3b: xv6 VM Layout
+# xv6 VM Layout
